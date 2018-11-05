@@ -2,5 +2,5 @@
 Działanie programu
 ![Obrazek](/img/1.png)
 
-Historia poprzedniej wersji
+Historia
 ![Obrazek2](/img/2.png)
