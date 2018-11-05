@@ -18,10 +18,12 @@ namespace prime
 
                 if (prime)
                 {
-                    Console.Write("Pierwsze: ");
+                    Console.Write("Pierwsza: ");
                     Console.WriteLine(i);
                 }
             }
+
+            Console.ReadKey();
         }
     }
 }
