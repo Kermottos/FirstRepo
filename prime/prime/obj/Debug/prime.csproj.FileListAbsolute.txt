@@ -1,0 +1,2 @@
+D:\repozytorium\prime\prime\obj\Debug\prime.csprojAssemblyReference.cache
+D:\repozytorium\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
