@@ -4,3 +4,6 @@ Działanie programu
 
 Historia
 ![Obrazek2](/img/2.png)
+
+
+Losowy tekst wstawiony innego dnia niż wszystko inne
