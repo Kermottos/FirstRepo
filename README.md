@@ -1,8 +1,8 @@
 # FirstRepo
-Działanie programu
+# Działanie programu
 ![Obrazek](/img/1.png)
 
-Historia
+# Historia
 ![Obrazek2](/img/2.png)
 
 
