@@ -7,7 +7,7 @@
 ### <p align = "center">Historia
 ![Obrazek2](/img/2.png)
 
-################################################################################################
+#############################################################################################
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non maximus eros. Fusce hendrerit mattis eros eu volutpat. Proin facilisis, nibh et laoreet malesuada, nulla quam fringilla augue, in maximus tellus dolor id neque. Nam cursus quam in aliquam dignissim. Morbi facilisis tempor risus a feugiat. Nullam odio lacus, porta non dictum et, commodo sit amet elit. Mauris felis mauris, tincidunt ac tempor eu, finibus eget ante. Vestibulum leo metus, tristique vel nisl at, eleifend fringilla enim. In ut egestas tellus. Vivamus in rhoncus lorem. Pellentesque vel elit a ante porttitor luctus ut id massa. Nam et tincidunt nisi, eu blandit lacus. Suspendisse sed tempor eros.
 
