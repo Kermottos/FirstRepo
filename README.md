@@ -4,8 +4,8 @@
 ### <p align = "center">Działanie programu
 ![Obrazek](/img/1.png)
 
-### Historia
+### <p align = "center">Historia
 ![Obrazek2](/img/2.png)
 
 
-Losowy tekst wstawiony innego dnia niż wszystko inne
+<p fontstyle="Comic Sans">Losowy tekst wstawiony innego dnia niż wszystko inne
