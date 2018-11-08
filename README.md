@@ -1,4 +1,6 @@
-# FirstRepo
+# Program wyświetlający liczby pierwsze napisany w C#
+
+
 # Działanie programu
 ![Obrazek](/img/1.png)
 
