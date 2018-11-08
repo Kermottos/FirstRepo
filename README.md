@@ -1,7 +1,7 @@
 # Program wyświetlający liczby pierwsze napisany w C#
 
 
-### <center>Działanie programu</center>
+### <p align = "center">Działanie programu
 ![Obrazek](/img/1.png)
 
 ### Historia
