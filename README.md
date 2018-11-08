@@ -1,10 +1,10 @@
 # Program wyświetlający liczby pierwsze napisany w C#
 
 
-# Działanie programu
+### Działanie programu
 ![Obrazek](/img/1.png)
 
-# Historia
+### Historia
 ![Obrazek2](/img/2.png)
 
 
