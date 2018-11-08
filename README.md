@@ -8,4 +8,4 @@
 ![Obrazek2](/img/2.png)
 
 
-<p font-family="Comic Sans">Losowy tekst wstawiony innego dnia niż wszystko inne
+<p font-style="italic">Losowy tekst wstawiony innego dnia niż wszystko inne
